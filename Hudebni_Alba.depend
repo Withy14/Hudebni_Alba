@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1451778473 source:c:\users\admin\desktop\alfa\hudebni_alba\hudbadb.c
+	"HudbaDB.h"
+	<stdlib.h>
+	<string.h>
+
+1451756124 c:\users\admin\desktop\alfa\hudebni_alba\hudbadb.h
+
+1451778473 source:c:\users\admin\desktop\alfa\hudebni_alba\main.c
+	"HudbaDB.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
